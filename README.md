@@ -49,7 +49,7 @@ SQL Database: MySQL Workbench (or a similar database) for running SQL queries.
 
 -- Charts: rating distribution, price histogram, stock pie chart
 
-
+## Presentation Video Link : https://youtu.be/GbKQplJ1BoI
 
 
 
